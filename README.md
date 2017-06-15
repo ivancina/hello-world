@@ -1,2 +1,5 @@
 # hello-world
-Coding
+
+Hi humans!
+
+Ivica here, I am starting my journey of becoming a softweare developer!
